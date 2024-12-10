@@ -477,3 +477,7 @@
     padding-right: 0;
     border-right: none;
 }
+
+.img-fluid{
+    border-radius: 100%;
+}
